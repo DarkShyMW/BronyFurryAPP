@@ -78,23 +78,23 @@
     <string name="include_renoted_my_notes">Show renotes of your notes on the timeline</string>
     <string name="include_my_renotes">Show your renotes on the timeline</string>
     <string name="auto_load_timeline">Load timeline automatically</string>
-    <string name="timeline">Timeline</string>
+    <string name="timeline">Временная линия</string>
 
-    <string name="capture_note_when_stopped" tools:ignore="Typos">Look for notes notes when the instance\'s server is stopped</string>
-    <string name="auto_load_when_stopped" tools:ignore="Typos">Automatically look for notes notes when the instance\'s server is stopped</string>
-    <string name="sync">Sync</string>
+    <string name="capture_note_when_stopped" tools:ignore="Typos">Ищите заметки заметки, когда сервер экземпляра остановлен</string>
+    <string name="auto_load_when_stopped" tools:ignore="Typos">Автоматический поиск заметок заметки, когда сервер экземпляра остановлен</string>
+    <string name="sync">Синхронизировать</string>
 
-    <string name="movement">Syncing</string>
-    <string name="remove_note">Delete notes</string>
+    <string name="movement">Синхронизация</string>
+    <string name="remove_note">Удалить заметки</string>
 
-    <string name="hide_removed_note">Hide deleted notes</string>
+    <string name="hide_removed_note">Скрывать удаленные записи</string>
 
-    <string name="appearance">Appearance</string>
-    <string name="theme">Theme</string>
-    <string name="theme_white">White</string>
+    <string name="appearance">Стиль</string>
+    <string name="theme">Тема</string>
+    <string name="theme_white">Светлая</string>
     <string name="theme_black">AMOLED</string>
-    <string name="theme_dark">Dark</string>
-    <string name="theme_bread">Pancake</string>
+    <string name="theme_dark">Тёмная тема</string>
+    <string name="theme_bread">Желтая</string>
 
     <string name="title_activity_media">MediaActivity</string>
     <string name="dummy_button">Dummy Button</string>
@@ -102,117 +102,117 @@
 
     <string name="sensitive_content">Sensitive content</string>
 
-    <string name="thumbnail">Thumbnail</string>
-    <string name="play_media">Play</string>
-    <string name="avataricon">avatarIcon</string>
-    <string name="reaction">Reaction</string>
-    <string name="followed_by">Followed by %s</string>
-    <string name="replied_by">Reply from %s</string>
-    <string name="quoted_by">Quoted by %s</string>
-    <string name="voted_by">poll voted in by %s</string>
-    <string name="mention_by">mentioned by %s</string>
-    <string name="reacted_by">reaction sent by %s</string>
-    <string name="renoted_by">renoted by %s</string>
+    <string name="thumbnail">Эскиз</string>
+    <string name="play_media">Запуск</string>
+    <string name="avataricon">Иконка аватара</string>
+    <string name="reaction">Реакции</string>
+    <string name="followed_by">Вас начал читать %s</string>
+    <string name="replied_by">Ответ от %s</string>
+    <string name="quoted_by">Процитирован %s</string>
+    <string name="voted_by">проголовал в головании %s</string>
+    <string name="mention_by">отмечен от %s</string>
+    <string name="reacted_by">поставил реакцию %s</string>
+    <string name="renoted_by">обозначается %s</string>
 
-    <string name="input_message">What\'s up?</string>
+    <string name="input_message">Как дела?</string>
 
     <string name="manifest_user_name_pattern">"@"\w([\w-]*\w)?(?:@[\w.\-]+\w)?</string>
-    <string name="followee_state">Followed</string>
-    <string name="mute">Mute</string>
-    <string name="block">Block</string>
-    <string name="unmute">Unmute</string>
-    <string name="unblock">Unblock</string>
+    <string name="followee_state">Читаете</string>
+    <string name="mute">Мут</string>
+    <string name="block">Бан</string>
+    <string name="unmute">Размут</string>
+    <string name="unblock">Разбан</string>
 
-    <string name="add_to_tab">Add to tab</string>
+    <string name="add_to_tab">Добавить в список лент</string>
 
-    <string name="detail">Detail</string>
+    <string name="detail">Детали</string>
 
-    <string name="instance_domain">Instance URL</string>
-    <string name="sign_in">Login</string>
-    <string name="user_name">Username</string>
-    <string name="password">Password</string>
-    <string name="sign_out">Logout</string>
-    <string name="token">Token</string>
+    <string name="instance_domain">Адрес сервера</string>
+    <string name="sign_in">Ваш логин</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="sign_out">Выйти</string>
+    <string name="token">Токен</string>
 
-    <string name="add_app">Add app</string>
-    <string name="selected_account">Selected account</string>
-    <string name="selected_app">Selected app</string>
-    <string name="custom_app">Custom app</string>
+    <string name="add_app">Добавить приложение</string>
+    <string name="selected_account">Выбранный аккаунт</string>
+    <string name="selected_app">Выбранное приложение</string>
+    <string name="custom_app">Кастомное приложение</string>
 
-    <string name="custom_app_name">App name</string>
-    <string name="custom_app_description">Application overview</string>
+    <string name="custom_app_name">Название приложения</string>
+    <string name="custom_app_description">Предпросмотр приложения</string>
 
-    <string name="your_app_name">Custom app name</string>
-    <string name="description_of_app_description">Displayed during authentication</string>
-    <string name="create">Create</string>
+    <string name="your_app_name">Имя приложения</string>
+    <string name="description_of_app_description">Информация, которая будет отображаться перед аутентификации</string>
+    <string name="create">Создать</string>
 
-    <string name="auth_failed">Failed</string>
-    <string name="expired">Expired</string>
+    <string name="auth_failed">Ошибка авторизации</string>
+    <string name="expired">Не успель</string>
 
-    <string name="auth_required">Authentication required</string>
-    <string name="invalid_url">Invalid URL</string>
-    <string name="invalid_pw_id">Invalid password/ID</string>
+    <string name="auth_required">Необходима авторизация</string>
+    <string name="invalid_url">Неверный URL</string>
+    <string name="invalid_pw_id">Неверный логин/ID</string>
 
-    <string name="auth">Authentication</string>
+    <string name="auth">Аутентификация</string>
 
-    <string name="often_use">Often use</string>
-    <string name="all">All</string>
+    <string name="often_use">Часто используемые</string>
+    <string name="all">Все</string>
 
-    <string name="visibility_public">Public</string>
-    <string name="visibility_home">Home</string>
-    <string name="visibility_follower">Followers only</string>
-    <string name="visibility_specified">Direct</string>
-    <string name="visibility_public_local_only">Public (local only)</string>
-    <string name="visibility_home_local_only">Home (local only)</string>
-    <string name="visibility_follower_local_only">Followers only (local only)</string>
+    <string name="visibility_public">Публично</string>
+    <string name="visibility_home">Домашняя лента</string>
+    <string name="visibility_follower">Только для читателей</string>
+    <string name="visibility_specified">Личное</string>
+    <string name="visibility_public_local_only">Публично (только локально)</string>
+    <string name="visibility_home_local_only">Домашняя лента (только локально)</string>
+    <string name="visibility_follower_local_only">Только для читателей (только локально)</string>
 
-    <string name="show">Show</string>
-    <string name="user_list">User list</string>
-    <string name="update_user_list">Edit list</string>
-    <string name="add_user">Add user</string>
-    <string name="list_name">List name</string>
-    <string name="create_user_list">Create list</string>
+    <string name="show">Показать</string>
+    <string name="user_list">Список людей</string>
+    <string name="update_user_list">Редактировать список</string>
+    <string name="add_user">Добавить пользователя</string>
+    <string name="list_name">Название списка</string>
+    <string name="create_user_list">Создать список</string>
     <string name="at_mark">\@</string>
 
-    <string name="host">Host</string>
-    <string name="select_user">Select user</string>
-    <string name="selecting_users">Selecting user</string>
+    <string name="host">Хост</string>
+    <string name="select_user">Выбрать пользователя</string>
+    <string name="selecting_users">Выбран пользователь</string>
     <string name="https">https://</string>
-    <string name="conversation">Conversation</string>
-    <string name="add_address">Add address</string>
+    <string name="conversation">Беседы</string>
+    <string name="add_address">Добавить адрес</string>
 
-    <string name="indefinite_period">Indefinite period</string>
-    <string name="date_and_time_specification">Specific date and time</string>
+    <string name="indefinite_period">Неопределенный срок</string>
+    <string name="date_and_time_specification">Конкретная дата и время</string>
 
-    <string name="future">Future</string>
-    <string name="now">Now</string>
-    <string name="year_ago">YR</string>
-    <string name="month_ago">MOS</string>
-    <string name="date_ago">D</string>
-    <string name="hour_ago">HR</string>
-    <string name="minute_ago">MIN</string>
-    <string name="second_ago">S</string>
+    <string name="future">Будущее</string>
+    <string name="now">Сейчас</string>
+    <string name="year_ago">ГН</string>
+    <string name="month_ago">МН</string>
+    <string name="date_ago">Д</string>
+    <string name="hour_ago">ЧН</string>
+    <string name="minute_ago">МИН</string>
+    <string name="second_ago">СЕК</string>
 
-    <string name="select_file">Select file</string>
+    <string name="select_file">Выбрать файл</string>
 
-    <string name="network_error">Network error</string>
+    <string name="network_error">Ошибка сети</string>
 
     <!--    <string name="folder_name">Folder name</string>-->
-    <string name="selected">Selected</string>
-    <string name="more">More</string>
+    <string name="selected">Выбранный</string>
+    <string name="more">Более</string>
 
-    <string name="delete_and_edit">Delete and redraft</string>
-    <string name="license">License</string>
-    <string name="standard_reaction">Standard reaction</string>
-    <string name="set_the_reaction_displayed_in_the_reaction_picker">Set the reaction displayed in the reaction picker</string>
-    <string name="reaction_picker">Reaction picker</string>
-    <string name="list_picker">List picker</string>
-    <string name="simple_picker">Simple picker</string>
-    <string name="enter_reaction">Enter reaction</string>
-    <string name="click_to_delete_the_reaction">Tap to remove the reaction</string>
-    <string name="confirm_delete_reaction">Confirm reaction removal</string>
-    <string name="delete_reaction">Remove reaction</string>
-    <string name="user">User</string>
+    <string name="delete_and_edit">Удалить и перезаписать</string>
+    <string name="license">Лицензии</string>
+    <string name="standard_reaction">Стандартные реакции</string>
+    <string name="set_the_reaction_displayed_in_the_reaction_picker">Установите реакцию, отображаемую в окне выбора реакции</string>
+    <string name="reaction_picker">Выбор реакции</string>
+    <string name="list_picker">Выбор списка</string>
+    <string name="simple_picker">Простой выбор</string>
+    <string name="enter_reaction">Введите реакции</string>
+    <string name="click_to_delete_the_reaction">Нажмите для удаления реакции</string>
+    <string name="confirm_delete_reaction">Подтвердите удаление</string>
+    <string name="delete_reaction">Удалить</string>
+    <string name="user">Пользователь</string>
     <string name="note_opacity">Note opacity</string>
     <string name="transparent">Transparent</string>
     <string name="opaque">Opaque</string>
@@ -222,19 +222,19 @@
     <string name="successfully_created_the_app">Successfully created the app</string>
     <string name="continue_auth">Continue</string>
 
-    <string name="home_timeline">Home</string>
-    <string name="global_timeline">Global</string>
-    <string name="local_timeline">Local</string>
-    <string name="hybrid_timeline">Social</string>
-    <string name="mention">Mentions</string>
-    <string name="add_tab">Add tab</string>
-    <string name="list">Lists</string>
-    <string name="tag">Hashtags</string>
-    <string name="featured">Featured</string>
-    <string name="antenna">Antennas</string>
-    <string name="rename">Rename</string>
-    <string name="edit">Edit</string>
-    <string name="delete">Delete</string>
+    <string name="home_timeline">Главная</string>
+    <string name="global_timeline">Глобальная</string>
+    <string name="local_timeline">Локальная</string>
+    <string name="hybrid_timeline">Гибридная</string>
+    <string name="mention">Обращения</string>
+    <string name="add_tab">Добавить таб</string>
+    <string name="list">Списки</string>
+    <string name="tag">Хештеги</string>
+    <string name="featured">Рекомендации</string>
+    <string name="antenna">Антены</string>
+    <string name="rename">Переименовать</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
 
     <string name="update_timeline_in_background">Update timeline in background</string>
 
