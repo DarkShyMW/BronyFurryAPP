@@ -51,7 +51,7 @@
     <string name="save_setting">Сохранить настройки</string>
     <string name="tab_selected">Добавлено</string>
     <string name="tab_selectable">Добавить снизу</string>
-    <string name="title_featured">Основные моменты</string>
+    <string name="title_featured">Местная лента</string>
 
     <!--    <string name="create_folder">Create folder</string>-->
     <string name="add_account">Добавить аккаунт</string>
@@ -112,7 +112,7 @@
     <string name="voted_by">проголовал в головании %s</string>
     <string name="mention_by">отмечен от %s</string>
     <string name="reacted_by">поставил реакцию %s</string>
-    <string name="renoted_by">обозначается %s</string>
+    <string name="renoted_by">репост от %s</string>
 
     <string name="input_message">Как дела?</string>
 
@@ -267,7 +267,7 @@
 
     <string name="success">Успешно</string>
     <string name="failure">Ошибка</string>
-    <string name="explore_fediverse">Иследуйте Fediverse</string>
+    <string name="explore_fediverse">Глобальная лента</string>
     <string name="explore">Исследовать</string>
     <string name="trending_users">Трендовые пользователи</string>
     <string name="users_with_recent_activity">Пользователи с недавней активностью</string>
