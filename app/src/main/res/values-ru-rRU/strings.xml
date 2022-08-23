@@ -277,22 +277,22 @@
     <string name="save_draft">Сохранить черновик</string>
     <string name="save_the_note_as_a_draft">Сохраните заметку как черновик</string>
     <string name="draft_notes">Черновики записей</string>
-    <string name="toggle_content_visibility">Toggle content visibility</string>
-    <string name="delete_draft_note">Delete draft note</string>
-    <string name="show_remotely">Display remotely</string>
-    <string name="incomplete_information_for_remote_user">Incomplete information for remote user</string>
-    <string name="local_only">Local only</string>
-    <string name="post_button_at_the_bottom">Place the post button at the bottom of the screen.</string>
-    <string name="please_again_to_finish">Press again to finish</string>
+    <string name="toggle_content_visibility">Переключение видимости содержимого</string>
+    <string name="delete_draft_note">Удалить черновик</string>
+    <string name="show_remotely">Отображать удаленно</string>
+    <string name="incomplete_information_for_remote_user">Неполная информация для удаленного пользователя</string>
+    <string name="local_only">Только локально</string>
+    <string name="post_button_at_the_bottom">Поместите кнопку публикации в нижней части экрана.</string>
+    <string name="please_again_to_finish">Нажмите снова, для завершения</string>
 
-    <string name="url_preview">URL preview</string>
-    <string name="summaly_server_url">Summaly server URL</string>
-    <string name="displayed_url_preview">Displayed URL preview</string>
-    <string name="preview_display_test">Preview display test</string>
+    <string name="url_preview">URL предпросмотр</string>
+    <string name="summaly_server_url">Сервер сводок URL-ов</string>
+    <string name="displayed_url_preview">Предпросмотр URL-адреса</string>
+    <string name="preview_display_test">Тест предпросмотра URL-адреса</string>
     <string name="test_url">Проверить адрес URL</string>
-    <string name="from_misskey_api">From Misskey API</string>
-    <string name="specify_summaly_server">Specify Summaly server</string>
-    <string name="use_app_implementation_deprecated">Use app implementation (deprecated)</string>
+    <string name="from_misskey_api">Из Misskey API</string>
+    <string name="specify_summaly_server">Укажите сервер сводки</string>
+    <string name="use_app_implementation_deprecated">Использование реализации приложения (устарело)</string>
 
     <string name="use_simple_editor">Использовать простой редактор</string>
     <string name="retry">Повторить попытку</string>
